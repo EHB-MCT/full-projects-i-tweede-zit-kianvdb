@@ -5,7 +5,7 @@ body {
 
 img {
     width: 800px;
-    
+
     margin-top: 106px;
     margin-left: 10px;
 }
@@ -17,21 +17,22 @@ img {
     padding-left: 700px;
     padding-top: 60px;
     position: relative;
-    
+
 
 }
 
 .titel {
 
-    padding-left: 150px;
+    padding-left: 130px;
     padding-top: 100px;
     position: absolute;
 }
-.intro{
 
-    background-color: red;
+.intro {
+
+
     position: relative;
-   margin-top: 200px;
-   margin-left: 80px;
-
+    margin-top: 200px;
+    margin-right: 300px;
+    padding-right: 600px;
 }
