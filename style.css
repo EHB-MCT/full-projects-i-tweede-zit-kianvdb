@@ -31,7 +31,7 @@ img {
 }
 
 .titel h1 {
-
+    font-size: 30px;
     margin-top: 65px;
 }
 
@@ -39,7 +39,7 @@ img {
 
 
     position: relative;
-    margin-top: 130px;
+    margin-top: 120px;
     margin-right: 300px;
     padding-right: 600px;
 
@@ -93,13 +93,7 @@ a.button {
     margin-top: 440px;
 }
 
-.info p {
-    background-color: #D3D3D3;
-    position: absolute;
-    margin-left: 579px;
-    padding-left: 5px;
-    border-radius: 10px;
-}
+
 
 h1 {
 
@@ -109,10 +103,25 @@ h1 {
 .titel p {
     font-family: "Trirong", serif;
 
+    font-size: larger;
 
 }
 
 .intro p {
 
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -50px;
+    font-size: medium;
+
+
+}
+
+.info p {
+    background-color: rgb(230, 230, 230);
+    position: absolute;
+    margin-left: 579px;
+    padding-left: 5px;
+    border-radius: 10px;
+    margin-top: -100px;
+    font-size: 14px;
 }
