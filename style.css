@@ -36,3 +36,40 @@ img {
     margin-right: 300px;
     padding-right: 600px;
 }
+
+.navigatie {
+
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+.navigatie ul li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+.navigatie ul li a {
+    text-decoration: none;
+    color: #FFF;
+    margin-top: 100px;
+}
+
+.navigation ul li a.button,
+a.button {
+    background-color: #2a406a;
+    padding: 10px 20px;
+    color: #FFF;
+    border-radius: 7px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.navigatie ul {
+
+    margin: 2;
+    padding: 10;
+}
