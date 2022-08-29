@@ -1,0 +1,37 @@
+body {
+
+    background-color: #87CEEB;
+}
+
+img {
+    width: 800px;
+    
+    margin-top: 106px;
+    margin-left: 10px;
+}
+
+.achtergrond {
+
+
+    width: 500px;
+    padding-left: 700px;
+    padding-top: 60px;
+    position: relative;
+    
+
+}
+
+.titel {
+
+    padding-left: 150px;
+    padding-top: 100px;
+    position: absolute;
+}
+.intro{
+
+    background-color: red;
+    position: relative;
+   margin-top: 200px;
+   margin-left: 80px;
+
+}
