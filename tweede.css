@@ -62,11 +62,12 @@ a.button {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+    position: absolute;
 
 }
 
 .item {
-    margin-top: 150px;
+    margin-top: 160px;
     width: 280px;
     padding: 20px;
     border-radius: 10px;
@@ -97,7 +98,7 @@ h1 {
     margin-bottom: -15px;
     font-size: 25px;
     text-decoration: underline;
-   color: white;
+    color: white;
 }
 
 h2 {
@@ -130,8 +131,7 @@ h2 {
 
     width: 200px;
 }
-p{
-color: white;
 
-
+p {
+    color: white;
 }
