@@ -52,6 +52,7 @@ img {
     position: absolute;
     margin-top: 20px;
     margin-left: 10px;
+    z-index: 1;
 
 }
 
@@ -59,12 +60,14 @@ img {
     display: inline-block;
     margin-right: 20px;
     font-size: 18px;
+   
 }
 
 .navigatie ul li a {
     text-decoration: none;
     color: #FFF;
     margin-top: 100px;
+    
 }
 
 .navigatie ul li a.button,
@@ -75,6 +78,7 @@ a.button {
     border-radius: 7px;
     font-weight: bold;
     text-decoration: none;
+  
 
 }
 
@@ -124,4 +128,8 @@ h1 {
     border-radius: 10px;
     margin-top: -100px;
     font-size: 14px;
+}
+.drie img{
+width: -500px;
+
 }
